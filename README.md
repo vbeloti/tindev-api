@@ -1,6 +1,6 @@
-## Indev Api (Node.js && Express.js && MongoDB)
+## Tindev Api (Node.js && Express.js && MongoDB)
 
-# Instagram Api
+# Tindev Api
 
 ## Open Endpoints
 
